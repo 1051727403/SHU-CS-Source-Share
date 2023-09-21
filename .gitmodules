@@ -1,3 +1,6 @@
 [submodule "学习资料（非电子书）/SummerProject/Grade_1"]
 	path = 学习资料（非电子书）/SummerProject/Grade_1
 	url = https://github.com/jamesnulliu/MySort.git
+[submodule "学习资料（非电子书）/SummerProject/Grade_2"]
+	path = 学习资料（非电子书）/SummerProject/Grade_2
+	url = https://github.com/jamesnulliu/SHU_Summer_Project_of_Computer_Hardware.git
