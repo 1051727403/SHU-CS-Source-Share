@@ -18,7 +18,7 @@
 
 #### 🎉最新更新时间：2023-9-21
 
-#### 👉最新更新内容：新增C语言、线性代数、数据分析与智能计算、大物实验、计算机公共基础课试卷合集（学盟社）
+#### 👉最新更新内容：新增C语言、线性代数、数据分析与智能计算、大物实验、删除部分敏感资源
 
 🤗PS：感谢同学分享！
 
@@ -106,7 +106,7 @@
 
 ### SHU-C语言
 
-1、[C语言习题、答案、历年试卷等](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/C%E8%AF%AD%E8%A8%80/C%E8%AF%AD%E8%A8%80%E5%A4%8D%E4%B9%A0%E9%A2%98%E5%90%88%E8%BE%91%E5%8C%85):本项目学习资料内
+1、[C语言习题、答案等](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/C%E8%AF%AD%E8%A8%80/C%E8%AF%AD%E8%A8%80%E5%A4%8D%E4%B9%A0%E9%A2%98%E5%90%88%E8%BE%91%E5%8C%85):本项目学习资料内
 
 
 
@@ -118,7 +118,7 @@
 
 ### SHU-数据分析与智能计算
 
-1、[数据分析与智能计算复习资料、历年真题、作业参考](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97):本项目学习资料内
+1、[数据分析与智能计算复习资料](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97):本项目学习资料内
 
 
 
@@ -131,8 +131,6 @@
 
 
 ### 🔥SHU-其他（不好分类的）
-
-1、[计算机公共基础课试卷合集-学盟](https://github.com/1051727403/SHU-CS-Source-Share/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%85%AC%E5%85%B1%E5%9F%BA%E7%A1%80%E8%AF%BE%E8%AF%95%E5%8D%B7%E5%90%88%E9%9B%86-%E5%AD%A6%E7%9B%9F.pdf):本项目学习资料内
 
 
 
