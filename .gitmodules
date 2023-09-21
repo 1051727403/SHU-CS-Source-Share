@@ -4,3 +4,6 @@
 [submodule "学习资料（非电子书）/SummerProject/Grade_2"]
 	path = 学习资料（非电子书）/SummerProject/Grade_2
 	url = https://github.com/jamesnulliu/SHU_Summer_Project_of_Computer_Hardware.git
+[submodule "学习资料（非电子书）/数据结构/CourseProject_ZNJ"]
+	path = 学习资料（非电子书）/数据结构/CourseProject_ZNJ
+	url = https://github.com/ycshao21/DataStructure-ZNJ-SHU
