@@ -130,9 +130,9 @@
 
 
 
-## SHU-计算机研究前沿
+### SHU-计算机研究前沿
 
-1、[SIS模型下的流行病传播过程仿真实践]():本项目学习资料内
+1、[SIS模型下的流行病传播过程仿真实践](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A0%94%E7%A9%B6%E5%89%8D%E6%B2%BF/lv%E6%B5%81%E8%A1%8C%E7%97%85%E4%BC%A0%E6%92%AD%E8%BF%87%E7%A8%8B%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C):本项目学习资料内
 
 
 
