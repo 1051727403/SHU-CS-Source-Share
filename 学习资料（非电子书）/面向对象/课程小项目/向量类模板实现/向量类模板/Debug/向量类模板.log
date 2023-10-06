@@ -1,0 +1,53 @@
+﻿  text.cpp
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(112,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(106): message : 在编译 类 模板 成员函数“VECTOR<int> VECTOR<int>::operator +(const VECTOR<int> &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(125): message : 查看对正在编译的函数 模板 实例化“VECTOR<int> VECTOR<int>::operator +(const VECTOR<int> &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(5): message : 查看对正在编译的 类 模板 实例化“VECTOR<int>”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(126,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(121): message : 在编译 类 模板 成员函数“VECTOR<int> &VECTOR<int>::operator +=(const VECTOR<int> &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(121): message : 查看对正在编译的函数 模板 实例化“VECTOR<int> &VECTOR<int>::operator +=(const VECTOR<int> &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(247,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(238): message : 在编译 类 模板 成员函数“void VECTOR<int>::erase(const int,const int)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(19): message : 查看对正在编译的函数 模板 实例化“void VECTOR<int>::erase(const int,const int)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(233,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(228): message : 在编译 类 模板 成员函数“void VECTOR<int>::erase(const int)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(31): message : 查看对正在编译的函数 模板 实例化“void VECTOR<int>::erase(const int)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(257,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(252): message : 在编译 类 模板 成员函数“T &VECTOR<T>::front(void)”时
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(51): message : 查看对正在编译的函数 模板 实例化“T &VECTOR<T>::front(void)”的引用
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(267,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(262): message : 在编译 类 模板 成员函数“T &VECTOR<T>::back(void)”时
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(52): message : 查看对正在编译的函数 模板 实例化“T &VECTOR<T>::back(void)”的引用
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(140,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(135): message : 在编译 类 模板 成员函数“T &VECTOR<T>::operator [](const int)”时
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(117): message : 查看对正在编译的函数 模板 实例化“T &VECTOR<T>::operator [](const int)”的引用
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(85): message : 在编译 类 模板 成员函数“VECTOR<int>::VECTOR(const VECTOR<int> &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\text.cpp(8): message : 查看对正在编译的函数 模板 实例化“VECTOR<int>::VECTOR(const VECTOR<int> &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(260): warning C4715: “VECTOR<int>::front”: 不是所有的控件路径都返回值
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(270): warning C4715: “VECTOR<int>::back”: 不是所有的控件路径都返回值
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\向量类模板\VECTOR.h(143): warning C4715: “VECTOR<int>::operator[]”: 不是所有的控件路径都返回值
+  向量类模板.vcxproj -> D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目3-final\课程小项目3\课程小项目3\向量类模板\Debug\向量类模板.exe

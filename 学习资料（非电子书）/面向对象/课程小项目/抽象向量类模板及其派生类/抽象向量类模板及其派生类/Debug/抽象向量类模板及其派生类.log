@@ -1,0 +1,89 @@
+﻿  main.cpp
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(29,1): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(36): message : 查看对正在编译的 类 模板 实例化“Cxxll<T>”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(135,1): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(64,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(58): message : 在编译 类 模板 成员函数“Cxxll<char> &Cxxll<char>::operator =(const Cxxll<char> &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\String.h(31): message : 查看对正在编译的函数 模板 实例化“Cxxll<char> &Cxxll<char>::operator =(const Cxxll<char> &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\String.h(9): message : 查看对正在编译的 类 模板 实例化“Cxxll<char>”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(103,25): warning C4018: “>=”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(100): message : 在编译 类 模板 成员函数“void Cxxll<char>::insert(const T,const unsigned int &,const unsigned int &)”时
+          with
+          [
+              T=char
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(73): message : 查看对正在编译的函数 模板 实例化“void Cxxll<char>::insert(const T,const unsigned int &,const unsigned int &)”的引用
+          with
+          [
+              T=char
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(104,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(123,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(117): message : 在编译 类 模板 成员函数“void Cxxll<char>::erase(const unsigned int &,const unsigned int &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(79): message : 查看对正在编译的函数 模板 实例化“void Cxxll<char>::erase(const unsigned int &,const unsigned int &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(126,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(112,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(107): message : 在编译 类 模板 成员函数“void Cxxll<char>::erase(const unsigned int &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(76): message : 查看对正在编译的函数 模板 实例化“void Cxxll<char>::erase(const unsigned int &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(178,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(175): message : 在编译 类 模板 成员函数“void Cxxll<char>::reverse(void)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(93): message : 查看对正在编译的函数 模板 实例化“void Cxxll<char>::reverse(void)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(144,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(110,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(97): message : 在编译 类 模板 成员函数“void Vector<int>::pop_back(void)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(120): message : 查看对正在编译的函数 模板 实例化“void Vector<int>::pop_back(void)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(104): message : 查看对正在编译的 类 模板 实例化“Vector<int>”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(103,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(121,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(116): message : 在编译 类 模板 成员函数“T Vector<T>::back(void)”时
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(125): message : 查看对正在编译的函数 模板 实例化“T Vector<T>::back(void)”的引用
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(132,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(126): message : 在编译 类 模板 成员函数“Vector<int> Vector<int>::operator +(const Vector<int> &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(133): message : 查看对正在编译的函数 模板 实例化“Vector<int> Vector<int>::operator +(const Vector<int> &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(138,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(151,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(147): message : 在编译 类 模板 成员函数“Vector<int> &Vector<int>::operator +=(const Vector<int> &)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(137): message : 查看对正在编译的函数 模板 实例化“Vector<int> &Vector<int>::operator +=(const Vector<int> &)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(157,13): warning C4101: “e”: 未引用的局部变量
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(43,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(37): message : 在编译 类 模板 成员函数“void Vector<int>::putout(std::ostream &) const”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(142): message : 查看对正在编译的函数 模板 实例化“void Vector<int>::putout(std::ostream &) const”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(93,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(80): message : 在编译 类 模板 成员函数“void Cxxll<char>::resize(unsigned int)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(102): message : 查看对正在编译的函数 模板 实例化“void Cxxll<char>::resize(unsigned int)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(51): message : 在编译 类 模板 成员函数“Cxxll<char>::~Cxxll(void)”时
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\String.h(31): message : 查看对正在编译的函数 模板 实例化“Cxxll<char>::~Cxxll(void)”的引用
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(94,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(46,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(40): message : 在编译 类 模板 成员函数“Cxxll<T>::Cxxll(const unsigned int,const T *)”时
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(28): message : 查看对正在编译的函数 模板 实例化“Cxxll<T>::Cxxll(const unsigned int,const T *)”的引用
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(28): message : 在编译 类 模板 成员函数“Vector<int>::Vector(const unsigned int,const T *)”时
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\main.cpp(104): message : 查看对正在编译的函数 模板 实例化“Vector<int>::Vector(const unsigned int,const T *)”的引用
+          with
+          [
+              T=int
+          ]
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Vector.h(124): warning C4715: “Vector<int>::back”: 不是所有的控件路径都返回值
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(148): warning C4715: “Cxxll<char>::operator[]”: 不是所有的控件路径都返回值
+D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\抽象向量类模板及其派生类\Cxxll.h(148): warning C4715: “Cxxll<int>::operator[]”: 不是所有的控件路径都返回值
+  抽象向量类模板及其派生类.vcxproj -> D:\学校事务\课程&作业\ppt、文件、word\面向对象\课程小项目4-final\抽象向量类模板及其派生类\Debug\抽象向量类模板及其派生类.exe
