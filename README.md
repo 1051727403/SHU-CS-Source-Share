@@ -53,7 +53,7 @@
 | SHU-概率论             | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%A6%82%E7%8E%87%E8%AE%BA) |                           暂无资料                           |
 | SHU-离散数学           | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6) | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6) |
 | SHU-汇编语言           | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80) |                           暂无资料                           |
-| SHU-面向对象           |                         [点此跳转]()                         |                           暂无资料                           |
+| SHU-面向对象           | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1) |                           暂无资料                           |
 | SHU-其他               | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%85%B6%E4%BB%96) |                           暂无资料                           |
 |                        |                                                              |                                                              |
 
