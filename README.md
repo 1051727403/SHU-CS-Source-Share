@@ -96,7 +96,7 @@
 
 **🔥3、[上海大学网络空间安全专业指南](https://github.com/shu-cake1salie/SHU-Cyberspace-Security-101)**:主要是网安专业的内容，包括信息安全技术等专业课相关内容
 
-[该项目配套网站](https://shu-cake1salie.github.io/SHU-Cyberspace-Security-101/1_course_computer/08A65001_DB/)：上面项目的成品网站
+[该项目配套网站](https://shu-cake1salie.github.io/SHU-Cyberspace-Security-101)：上面项目的成品网站
 
 # 📈贡献者
 
