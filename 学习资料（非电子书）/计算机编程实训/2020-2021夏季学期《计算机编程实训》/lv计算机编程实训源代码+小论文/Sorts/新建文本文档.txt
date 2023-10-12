@@ -1,0 +1,128 @@
+//归并------------------------------------------------------------------------------------------------------------------------------------------------------
+//利用插入排序优化
+template <typename T> void insertSort(T* arr, int left, int right, ULL& compareCnt, ULL& assignCnt)
+{
+	for (int i = left + 1; i <= right; i++)
+	{
+		if (arr[i - 1] > arr[i])
+		{
+			T temp = arr[i];
+			int j = i;
+			while (j > left && arr[j - 1] > temp)
+			{
+				arr[j] = arr[j - 1];
+				j--;
+				assignCnt++;
+				compareCnt++;
+			}
+			arr[j] = temp;
+		}
+		compareCnt++;
+	}
+}
+//优化前----------------------------------------------------------------------------------------------------------------------------------------------------
+template <typename T> void merge(T* arr, T* temparr, int left, int mid, int right, ULL& compareCnt, ULL& assignCnt)
+{
+	int i = left;
+	int j = mid + 1;
+	for (int k = left; k <= right; k++) {//把原数据拷贝到临时数组中
+		temparr[k] = arr[k];
+		assignCnt++;
+	}
+	for (int k = left; k <= right; k++) {
+		if (i > mid) {
+			arr[k] = temparr[j++];
+		}
+		else if (j > right) {
+			arr[k] = temparr[i++];
+		}
+		else if (temparr[j] < temparr[i]) {
+			arr[k] = temparr[j++];
+			compareCnt++;
+		}
+		else {
+			arr[k] = temparr[i++];
+			compareCnt++;
+		}
+		assignCnt++;
+	}
+}
+//拆分,需要在调用前创建一个大小与arr相同的空数组，用来零时存放
+template <typename T> void _mergeSort(T* arr, T* temparr, int left, int right, ULL& compareCnt, ULL& assignCnt)
+{
+	if (left >= right)
+	{
+		return;
+	}
+	int mid = left + (right - left) / 2;
+	_mergeSort(arr, temparr, left, mid, assignCnt, compareCnt);
+	_mergeSort(arr, temparr, mid + 1, right, assignCnt, compareCnt);
+	merge(arr, temparr, left, mid, right, assignCnt, compareCnt);
+}
+ //调用函数
+ template <typename T> void mergeSort(T* arr, int size, ULL& compareCnt, ULL& assignCnt)
+ {
+	 T* tempdata = new T[size];
+	 _mergeSort(arr, tempdata, 0, size - 1, compareCnt, assignCnt);
+	 if (tempdata != NULL) delete[] tempdata;
+	 tempdata = NULL;
+ }
+ //优化后-------------------------------------------------------------------------------------------------------------------------------------------------
+ template <typename T>  void _mergePlus(T* arr, T* temparr, int left, int mid, int right, ULL& compareCnt, ULL& assignCnt)
+ {
+	 int i = left;
+	 int j = mid + 1;
+	 //此处的临时数组拷贝，通过在递归过程中交换临时数组和原数组得以省略，节约时间
+	 for (int k = left; k <= right; k++) {
+		 if (i > mid) {
+			 arr[k] = temparr[j++]; // 左侧用完，把右侧依次放入
+		 }
+		 else if (j > right) {
+			 arr[k] = temparr[i++]; // 右侧用完，把左侧依次放入
+		 }
+		 else if (temparr[j] < temparr[i]) {
+			 arr[k] = temparr[j++]; // 右边小于左边，把右侧元素放入
+			 compareCnt++;
+		 }
+		 else {
+			 arr[k] = temparr[i++]; // 左边小于右边，把左侧元素放入
+			 compareCnt++;
+		 }
+		 assignCnt++;
+	 }
+ }
+//拆分,需要在调用前创建一个大小与arr相同的空数组，用来零时存放
+ template <typename T> void _mergeSortPlus(T* arr, T* temparr, int left, int right, ULL& compareCnt, ULL& assignCnt)
+ {
+	 if (left + 10 >= right)
+	 {
+		 insertSort(arr, left, right, compareCnt, assignCnt);//小规模数据利用插入算法替代归并算法可以减少栈的使用，防止栈溢出的同时减少空间复杂度
+		 return;
+	 }
+	 int mid = left + (right - left) / 2;
+	 _mergeSortPlus(temparr, arr, left, mid, compareCnt, assignCnt);//交换临时数组和原数组节省拷贝时间
+	 _mergeSortPlus(temparr, arr, mid + 1, right, compareCnt, assignCnt);
+	 //if(temparr[mid]<=temparr[mid+1]&&arr[mid]<=arr[mid+1]) return;//若左右都已排序并左侧均比右侧小，则视为已排序，跳过合并步骤
+	 //ps:若使用临时数组互换的操作则if操作失效，因为不知道排序完成的是那个数组，而若另外添加函数来进行判断，则会耗费更多的时间与空间，综合比较后，决定取消此操作。
+	 _mergePlus(arr, temparr, left, mid, right, compareCnt, assignCnt);//因为外部_mergeSortPlus和_mergePlus的参数顺序是相同的， 所以，无论递归过程中辅助数组和
+																 //原数组的角色如何替换，对最后一次调用的_mergePlus而言,，最终被排为有序的都是原数组，而不是辅助数组！  
+ }
+ //调用函数
+ template <typename T> void mergeSortPlus(T* arr, int size, ULL& compareCnt, ULL& assignCnt)
+ {
+	 bool a = true;//对完全顺序类型数据进行特判，比较发现并不会占用其他数据类型过多时间，利大于弊
+	 for (int i = 0; i < size - 1; i++) {
+		 if (arr[i] > arr[i + 1]) { a = false; }
+		 compareCnt++;
+	 }
+	 if (a) { return; }
+	 T* temparr = new T[size];
+	 for (int i = 0; i < size; i++)//在该阶段时创建临时数组并将原数组的元素拷贝
+	 {
+		 temparr[i] = arr[i];
+	 }
+	 _mergeSortPlus(arr, temparr, 0, size - 1, compareCnt, assignCnt);
+	 if (temparr != NULL) delete[] temparr;
+	 temparr = NULL;
+ }
+ 
