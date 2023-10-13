@@ -7,3 +7,6 @@
 [submodule "学习资料（非电子书）/数据结构/CourseProject_ZNJ"]
 	path = 学习资料（非电子书）/数据结构/CourseProject_ZNJ
 	url = https://github.com/ycshao21/DataStructure-ZNJ-SHU
+[submodule "学习资料（非电子书）/其他/PS教程"]
+	path = 学习资料（非电子书）/其他/PS教程
+	url = https://github.com/1051727403/PS-Tutorial.git
