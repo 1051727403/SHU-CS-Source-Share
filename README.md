@@ -20,9 +20,9 @@
 
 -------------------分割线-------------------
 
-#### 🎉最新更新时间：2023-10-13
+#### 🎉最新更新时间：2023-10-14
 
-#### 👉最新更新内容：PS教程（“其他”文件夹下）、语义网络与知识图谱、微积分资料
+#### 👉最新更新内容：JAVA程序设计资料（课后作业源代码）
 
 🤗PS：感谢同学分享以及提交PR！
 
@@ -57,6 +57,7 @@
 | SHU-数据分析与智能计算 | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97) |                           暂无资料                           |
 | SHU-组合数学           | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6) |                           暂无资料                           |
 | SHU-汇编语言           | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80) |                           暂无资料                           |
+| SHU-JAVA程序设计       | 选修 |                         [点此跳转]()                         |                           暂无资料                           |
 | SHU-语义网络与知识图谱 | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%AF%AD%E4%B9%89%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1) |                           暂无资料                           |
 | SHU-其他               | 其他 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%85%B6%E4%BB%96) |                           暂无资料                           |
 
