@@ -30,8 +30,8 @@ main proc far
                      mov    ax, stack
                      mov    ss, ax
 
-                     mov    bp, 1023
-                     mov    sp, 1023
+                     mov    bp, 1024
+                     mov    sp, 1024
 
     display_menu:    
                      mov    ax, ds
