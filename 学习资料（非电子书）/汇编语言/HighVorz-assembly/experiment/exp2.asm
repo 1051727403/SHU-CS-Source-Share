@@ -176,11 +176,11 @@ code segment
 
                   mov    ax, result_s[2]
                   call   print_num
-    ; 结束程序
-    end:          
-                  mov    ah, 4Ch
-                  int    21h
-                  ret
+                  
+    quit:            
+    ;  退出
+                     mov    ah, 4Ch
+                     int    21h
 
 
      print_num:    
@@ -211,6 +211,6 @@ code segment
                   pop    ax
                   ret
 
-    ; main endp
+    
 code ends
 end start

@@ -11,7 +11,7 @@ data segment
 data ends
 
 stack segment
-          db 100 dup(0)    ;定义数据相当于是定义了段地址
+          db 100 dup(0)
 stack ends
 
 code segment
@@ -25,6 +25,8 @@ main proc far
 
                     mov    ax, stack
                     mov    ss,ax
+
+    
 
     input:          
                     mov    si, 0
