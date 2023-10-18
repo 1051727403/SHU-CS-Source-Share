@@ -10,13 +10,11 @@ CX (Count)：计数器寄存器；
 
 DX (Data)：数据寄存器；
 
-
 **变址寄存器**
 
 SI (Source Index)：源变址寄存器；
 
 DI (Destination Index)：目的变址寄存器；
-
 
 **段寄存器：**
 
@@ -27,7 +25,6 @@ DS (Data Segment)：数据段寄存器；
 SS (Stack Segment)：堆栈段寄存器；
 
 ES (Extra Segment)：附加段寄存器；
-
 
 #### Flag寄存器
 
@@ -218,44 +215,45 @@ mul bx
 
 
 
+#### func
+
+常用函数功能, 以更快的完成实验, 提升可读性, 减少bug
+
+
 ## Tutorial
 
 使用masm汇编, 采用dosbox虚拟环境, 推荐vscode编辑器
 
 课本IBM-PC汇编语言程序设计
 
-
 #### Lesson 1
 
-Materials: 
+Materials:
 
 1. HelloWorld.asm
 
-Task: 
+Task:
 
     1. 了解汇编代码的结构, 掌握编译工具
 
-
 #### Lesson 2
 
-Materials: 
+Materials:
 
     1. assembly.md
 
-Task: 
+Task:
 
 1. 学习基础指令 mov, add, sub, jmp, loop
 2. 理解代码执行顺序
 3. 构造一个错误的执行顺序
 4. 使用Debug调试并观察结果
 
-
 #### Lesson 3
 
 method.jpg
 
 理解call指令的底层
-
 
 #### Lesson 4
 
