@@ -1,3 +1,4 @@
+    ; !注意 该函数依赖 get_str
     ; 返回值 ax
     ; 读入无符号十进制数 0~65535
     ; 非法格式: 65536, 0000, 01234, 空串
@@ -41,5 +42,5 @@ get_num proc near
                      pop    dx
                      pop    cx
                      pop    bx
-    
+                     ret
 get_num endp
