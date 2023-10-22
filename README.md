@@ -20,9 +20,9 @@
 
 -------------------分割线-------------------
 
-#### 🎉最新更新时间：2023-10-14
+#### 🎉最新更新时间：2023-10-22
 
-#### 👉最新更新内容：JAVA程序设计资料（课后作业源代码）
+#### 👉最新更新内容：算法设计与分析实验题目与源码、数据库课后习题参考答案、数字逻辑实验报告、web开发技术A
 
 🤗PS：感谢同学分享以及提交PR！
 
@@ -59,6 +59,7 @@
 | SHU-汇编语言           | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80) |                           暂无资料                           |
 | SHU-JAVA程序设计       | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/JAVA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) |                           暂无资料                           |
 | SHU-语义网络与知识图谱 | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%AF%AD%E4%B9%89%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1) |                           暂无资料                           |
+| SHU-Web开发技术A       | 选修 |                         [点此跳转]()                         |                           暂无资料                           |
 | SHU-其他               | 其他 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%85%B6%E4%BB%96) |                           暂无资料                           |
 
 ## 🔥非本项目内资料
