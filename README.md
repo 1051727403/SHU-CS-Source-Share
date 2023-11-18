@@ -61,7 +61,7 @@
 | SHU-语义网络与知识图谱  | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E8%AF%AD%E4%B9%89%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1) |                           暂无资料                           |
 | SHU-Web开发技术A        | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/Web%E5%BC%80%E5%8F%91%E8%AE%A1%E7%AE%97A) |                           暂无资料                           |
 | SHU-大数据从理论到实践A | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5A) |                           暂无资料                           |
-| SHU-实用计算机英语      | 选修 |                         [点此跳转]()                         |                           暂无资料                           |
+| SHU-实用计算机英语      | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%AE%9E%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD) |                           暂无资料                           |
 | SHU-其他                | 其他 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%85%B6%E4%BB%96) |                           暂无资料                           |
 
 
