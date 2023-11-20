@@ -86,6 +86,9 @@
 ### SHU-法设计与分析课程
 1、[❤️](https://github.com/makeplane/plane#%EF%B8%8F-community)[SHU算法设计与分析课程实验（含代码实现与报告）](https://github.com/RuoShui66/algorithm):罗神出品，品质有保障!
 
+### SHU-汇编语言程序设计
+1、[❤️](https://github.com/makeplane/plane#%EF%B8%8F-community)[2023秋季汇编语言程序设计课程实验、作业与复习资料](https://github.com/30Hzzh/SHUOS-Assembly-Language)
+
 
 
 # 🕵️友情链接
