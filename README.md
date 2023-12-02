@@ -90,7 +90,8 @@
 ### SHU-汇编语言程序设计
 1、[❤️](https://github.com/makeplane/plane#%EF%B8%8F-community)[2023秋季汇编语言程序设计课程实验、作业与复习资料](https://github.com/30Hzzh/SHUOS-Assembly-Language)
 
-
+### SHU-计算思维实训
+1、[❤️](https://github.com/makeplane/plane#%EF%B8%8F-community)[2023计算思维实训-无尺度网络建模及其各项特性的研究、分析、可视化](https://github.com/drewjin/drew_Scale-Free_Network)
 
 # 🕵️友情链接
 
