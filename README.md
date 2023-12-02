@@ -20,9 +20,9 @@
 
 -------------------分割线-------------------
 
-#### 🎉最新更新时间：2023-11-25
+#### 🎉最新更新时间：2023-12-2
 
-#### 👉最新更新内容：汇编语言程序设计(链接在表格下的第三方仓库跳转处)
+#### 👉最新更新内容：ACM算法知识&模板分享
 
 🤗PS：感谢同学分享以及提交PR！祝大家考试顺利！
 
@@ -63,6 +63,7 @@
 | SHU-大数据从理论到实践A | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5A) |                           暂无资料                           |
 | SHU-实用计算机英语      | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%AE%9E%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD) |                           暂无资料                           |
 | SHU-其他                | 其他 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%85%B6%E4%BB%96) |                           暂无资料                           |
+| SHU-ACM算法知识&模板    | 其他 |                           点此跳转                           |                           暂无资料                           |
 
 
 
