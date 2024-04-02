@@ -108,6 +108,10 @@
 ### SHU-计算思维实训
 1、[❤️](https://github.com/makeplane/plane#%EF%B8%8F-community)[2023计算思维实训-无尺度网络建模及其各项特性的研究、分析、可视化](https://github.com/drewjin/drew_Scale-Free_Network)
 
+### **SHU-ACM模板**
+
+1、[❤️ACM模板](https://github.com/whoamizx/banzi):新手算法模板,持续更新到2025年
+
 # 🕵️友情链接
 
 #### 该板块存放其他学长创建的类似资料合集仓库，若本项目内寻找不到想要的资料，可以跳转到其他资料仓库寻找。
