@@ -74,8 +74,8 @@
 | ❤️名称❤️       | 类别 |                           快速跳转                           |
 | :----------- | ---- | :----------------------------------------------------------: |
 | SHU-简历相关 | 就业 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%B0%B1%E4%B8%9A%E7%9B%B8%E5%85%B3/%E7%AE%80%E5%8E%86) |
-| SHU-面经     | 就业 |                         [点此跳转]()                         |
-| SHU-八股笔记 | 就业 |                         [点此跳转]()                         |
+| SHU-面经     | 就业 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%B0%B1%E4%B8%9A%E7%9B%B8%E5%85%B3/%E9%9D%A2%E7%BB%8F) |
+| SHU-八股笔记 | 就业 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%B0%B1%E4%B8%9A%E7%9B%B8%E5%85%B3/%E5%85%AB%E8%82%A1%E7%AC%94%E8%AE%B0) |
 |              |      |                                                              |
 
 
