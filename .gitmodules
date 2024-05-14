@@ -7,3 +7,6 @@
 [submodule "学习资料（非电子书）/数据结构/CourseProject_ZNJ"]
 	path = 学习资料（非电子书）/数据结构/CourseProject_ZNJ
 	url = https://github.com/ycshao21/DataStructure-ZNJ-SHU
+[submodule "学习资料（非电子书）/编译原理/PrettyLazy0"]
+	path = 学习资料（非电子书）/编译原理/PrettyLazy0
+	url = https://github.com/jamesnulliu/PrettyLazy0.git
