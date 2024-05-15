@@ -13,3 +13,6 @@
 [submodule "学习资料（非电子书）/JAVAEE开发技术/caiyu/shushucloudorder_caiyu_project"]
 	path = 学习资料（非电子书）/JAVAEE开发技术/caiyu/shushucloudorder_caiyu_project
 	url = https://github.com/itbear-shu/SHUSHUCloudOrder.git
+[submodule "学习资料（非电子书）/编译原理/PrettyLazy0"]
+	path = 学习资料（非电子书）/编译原理/PrettyLazy0
+	url = https://github.com/jamesnulliu/PrettyLazy0.git
