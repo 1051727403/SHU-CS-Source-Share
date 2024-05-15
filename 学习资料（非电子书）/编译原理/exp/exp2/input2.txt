@@ -1,0 +1,13 @@
+const max = 10;
+var sum, i, f1(;
+begin
+    sum := 0;
+    i := 1;
+    while i < max do
+    begin
+        if odd(i) then
+            sum := sum + i;
+        i := i + 1;
+    end;
+    write(sum)
+end.

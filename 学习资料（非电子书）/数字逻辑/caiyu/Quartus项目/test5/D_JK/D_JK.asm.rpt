@@ -1,0 +1,126 @@
+Assembler report for D_JK
+Mon Nov 01 15:38:23 2021
+Version 6.0 Build 202 06/20/2006 Service Pack 1 SJ Full Version
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Assembler Summary
+  3. Assembler Settings
+  4. Assembler Generated Files
+  5. Assembler Device Options: D:/桌面/Quartus项目/test5/D_JK/D_JK.sof
+  6. Assembler Device Options: D:/桌面/Quartus项目/test5/D_JK/D_JK.pof
+  7. Assembler Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2006 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; Assembler Summary                                             ;
++-----------------------+---------------------------------------+
+; Assembler Status      ; Successful - Mon Nov 01 15:38:23 2021 ;
+; Revision Name         ; D_JK                                  ;
+; Top-level Entity Name ; D_JK                                  ;
+; Family                ; Stratix                               ;
+; Device                ; EP1S10F484C5                          ;
++-----------------------+---------------------------------------+
+
+
++-----------------------------------------------------------------------------------------------------------+
+; Assembler Settings                                                                                        ;
++--------------------------------------------------------------------------------+----------+---------------+
+; Option                                                                         ; Setting  ; Default Value ;
++--------------------------------------------------------------------------------+----------+---------------+
+; Use smart compilation                                                          ; Off      ; Off           ;
+; Generate Serial Vector Format File (.svf) for Target Device                    ; Off      ; Off           ;
+; Generate a JEDEC STAPL Format File (.jam) for Target Device                    ; Off      ; Off           ;
+; Generate an uncompressed Jam STAPL Byte Code 2.0 File (.jbc) for Target Device ; Off      ; Off           ;
+; Generate a compressed Jam STAPL Byte Code 2.0 File (.jbc) for Target Device    ; On       ; On            ;
+; Compression mode                                                               ; Off      ; Off           ;
+; Clock source for configuration device                                          ; Internal ; Internal      ;
+; Clock frequency of the configuration device                                    ; 10 MHZ   ; 10 MHz        ;
+; Divide clock frequency by                                                      ; 1        ; 1             ;
+; JTAG user code for target device                                               ; Ffffffff ; Ffffffff      ;
+; Auto user code                                                                 ; Off      ; Off           ;
+; Use configuration device                                                       ; On       ; On            ;
+; Configuration device                                                           ; Auto     ; Auto          ;
+; JTAG user code for configuration device                                        ; Ffffffff ; Ffffffff      ;
+; Configuration device auto user code                                            ; Off      ; Off           ;
+; Auto-increment JTAG user code for multiple configuration devices               ; On       ; On            ;
+; Disable CONF_DONE and nSTATUS pull-ups on configuration device                 ; Off      ; Off           ;
+; Generate Tabular Text File (.ttf) For Target Device                            ; Off      ; Off           ;
+; Generate Raw Binary File (.rbf) For Target Device                              ; Off      ; Off           ;
+; Generate Hexadecimal (Intel-Format) Output File (.hexout) for Target Device    ; Off      ; Off           ;
+; Hexadecimal Output File start address                                          ; 0        ; 0             ;
+; Hexadecimal Output File count direction                                        ; Up       ; Up            ;
+; Release clears before tri-states                                               ; Off      ; Off           ;
+; Auto-restart configuration after error                                         ; On       ; On            ;
++--------------------------------------------------------------------------------+----------+---------------+
+
+
++-----------------------------------------+
+; Assembler Generated Files               ;
++-----------------------------------------+
+; File Name                               ;
++-----------------------------------------+
+; D:/桌面/Quartus项目/test5/D_JK/D_JK.sof ;
+; D:/桌面/Quartus项目/test5/D_JK/D_JK.pof ;
++-----------------------------------------+
+
+
++-------------------------------------------------------------------+
+; Assembler Device Options: D:/桌面/Quartus项目/test5/D_JK/D_JK.sof ;
++----------------+--------------------------------------------------+
+; Option         ; Setting                                          ;
++----------------+--------------------------------------------------+
+; Device         ; EP1S10F484C5                                     ;
+; JTAG usercode  ; 0xFFFFFFFF                                       ;
+; Checksum       ; 0x00133ED6                                       ;
++----------------+--------------------------------------------------+
+
+
++-------------------------------------------------------------------+
+; Assembler Device Options: D:/桌面/Quartus项目/test5/D_JK/D_JK.pof ;
++----------------+--------------------------------------------------+
+; Option         ; Setting                                          ;
++----------------+--------------------------------------------------+
+; Device         ; EPC4                                             ;
+; JTAG usercode  ; 0xFFFFFFFF                                       ;
+; Checksum       ; 0x0632269A                                       ;
++----------------+--------------------------------------------------+
+
+
++--------------------+
+; Assembler Messages ;
++--------------------+
+Info: *******************************************************************
+Info: Running Quartus II Assembler
+    Info: Version 6.0 Build 202 06/20/2006 Service Pack 1 SJ Full Version
+    Info: Processing started: Mon Nov 01 15:38:22 2021
+Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off D_JK -c D_JK
+Info: Assembler is generating device programming files
+Info: Quartus II Assembler was successful. 0 errors, 0 warnings
+    Info: Processing ended: Mon Nov 01 15:38:23 2021
+    Info: Elapsed time: 00:00:01
+
+

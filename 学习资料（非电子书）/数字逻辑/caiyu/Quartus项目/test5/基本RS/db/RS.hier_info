@@ -1,0 +1,19 @@
+|RS
+Q <= 7400:inst1.1
+S => 7400:inst1.3
+R => 7400:inst.2
+-Q <= 7400:inst.1
+
+
+|RS|7400:inst1
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|RS|7400:inst
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+

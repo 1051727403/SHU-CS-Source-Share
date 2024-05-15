@@ -1,0 +1,146 @@
+Version 6.0 Build 202 06/20/2006 Service Pack 1 SJ Full Version
+2
+24
+OFF
+OFF
+OFF
+OFF
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Partition --
+-- End Partition --
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+74151
+# storage
+db|74LS151.(1).cnf
+db|74LS151.(1).cnf
+# case_insensitive
+# source_file
+c:|altera|quartus60|libraries|others|maxplus2|74151.tdf
+8e23777b7e77bbea2991510888c2e
+6
+# user_parameter {
+DEVICE_FAMILY
+ACEX1K
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+Y
+-1
+3
+C
+-1
+3
+B
+-1
+3
+A
+-1
+3
+GN
+-1
+1
+D6
+-1
+1
+D1
+-1
+1
+D7
+-1
+2
+D5
+-1
+2
+D4
+-1
+2
+D3
+-1
+2
+D2
+-1
+2
+D0
+-1
+2
+}
+# include_file {
+c:|altera|quartus60|libraries|megafunctions|aglobal.inc
+b3d07c643dae10ab2b3e646e99ec45fc
+}
+# hierarchies {
+74151:inst
+}
+# end
+# entity
+f74151
+# storage
+db|74LS151.(2).cnf
+db|74LS151.(2).cnf
+# case_insensitive
+# source_file
+c:|altera|quartus60|libraries|others|maxplus2|f74151.bdf
+c65e61b9657937aab8a5c1a38aae44
+24
+# hierarchies {
+74151:inst|f74151:sub
+}
+# end
+# entity
+74LS151
+# storage
+db|74LS151.(0).cnf
+db|74LS151.(0).cnf
+# case_insensitive
+# source_file
+74LS151.bdf
+5fa41d67d72e931d2102a270fc57a
+24
+# hierarchies {
+|
+}
+# end
+# entity
+74138
+# storage
+db|74LS151.(3).cnf
+db|74LS151.(3).cnf
+# case_insensitive
+# source_file
+c:|altera|quartus60|libraries|others|maxplus2|74138.bdf
+6cadbea2e3f85766eb8e4e262292077
+24
+# hierarchies {
+74138:inst20
+}
+# end
+# complete
+

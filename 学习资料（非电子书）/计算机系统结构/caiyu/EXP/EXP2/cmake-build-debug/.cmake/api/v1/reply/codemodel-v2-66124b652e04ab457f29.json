@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EXP2",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EXP2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EXP2-Debug-97c898e8d71046478164.json",
+					"name" : "EXP2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-debug-Debug-01f89560265daaf10bb0.json",
+					"name" : "debug",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/silence/1\u4e13\u4e1a\u8bfe/\u8ba1\u7b97\u673a\u7cfb\u7edf\u7ed3\u6784/EXP/EXP2/cmake-build-debug",
+		"source" : "/Users/silence/1\u4e13\u4e1a\u8bfe/\u8ba1\u7b97\u673a\u7cfb\u7edf\u7ed3\u6784/EXP/EXP2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

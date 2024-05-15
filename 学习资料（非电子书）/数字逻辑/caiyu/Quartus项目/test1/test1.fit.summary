@@ -1,0 +1,11 @@
+Fitter Status : Successful - Mon Oct 11 16:36:18 2021
+Quartus II Version : 6.0 Build 202 06/20/2006 SP 1 SJ Full Version
+Revision Name : test1
+Top-level Entity Name : test1
+Family : ACEX1K
+Device : EP1K30TC144-1
+Timing Models : Final
+Total logic elements : 1 / 1,728 ( < 1 % )
+Total pins : 3 / 102 ( 3 % )
+Total memory bits : 0 / 24,576 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )

@@ -1,0 +1,4 @@
+/Users/silence/1专业课/计算机系统结构/EXP/EXP2/cmake-build-debug/CMakeFiles/EXP2.dir
+/Users/silence/1专业课/计算机系统结构/EXP/EXP2/cmake-build-debug/CMakeFiles/debug.dir
+/Users/silence/1专业课/计算机系统结构/EXP/EXP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silence/1专业课/计算机系统结构/EXP/EXP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

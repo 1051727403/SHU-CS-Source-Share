@@ -1,0 +1,33 @@
+|Clock_RS
+-Q <= 7400:inst3.1
+R => 7400:inst1.3
+CP => 7400:inst1.2
+CP => 7400:inst.3
+S => 7400:inst.2
+Q <= 7400:inst2.1
+
+
+|Clock_RS|7400:inst3
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|Clock_RS|7400:inst1
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|Clock_RS|7400:inst2
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|Clock_RS|7400:inst
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+

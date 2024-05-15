@@ -1,0 +1,18 @@
+|8421
+W <= inst15.DB_MAX_OUTPUT_PORT_TYPE
+B => inst16.IN0
+B => inst17.IN0
+B => inst14.IN0
+C => inst16.IN1
+C => inst18.IN1
+C => inst7.IN0
+D => inst17.IN1
+D => inst18.IN0
+D => inst7.IN1
+D => inst.IN0
+A => inst15.IN2
+X <= inst14.DB_MAX_OUTPUT_PORT_TYPE
+Y <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+Z <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,8 @@
+Extra Info: Performing register packing on registers with non-logic cell location assignments
+Extra Info: Completed register packing on registers with non-logic cell location assignments
+Extra Info: Started Fast Input/Output/OE register processing
+Extra Info: Finished Fast Input/Output/OE register processing
+Extra Info: Start inferring scan chains for DSP blocks
+Extra Info: Inferring scan chains for DSP blocks is complete
+Extra Info: Moving registers into I/O cells, LUTs, RAM blocks, and DSP blocks to improve timing and density
+Extra Info: Finished moving registers into LUTs, I/O cells, DSP blocks, and RAM blocks

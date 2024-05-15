@@ -1,0 +1,127 @@
+Assembler report for 74LS138
+Sat Oct 23 15:48:19 2021
+Version 6.0 Build 202 06/20/2006 Service Pack 1 SJ Full Version
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Assembler Summary
+  3. Assembler Settings
+  4. Assembler Generated Files
+  5. Assembler Device Options: D:/桌面/Quartus项目/test4/74LS138/74LS138.sof
+  6. Assembler Device Options: D:/桌面/Quartus项目/test4/74LS138/74LS138.pof
+  7. Assembler Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2006 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; Assembler Summary                                             ;
++-----------------------+---------------------------------------+
+; Assembler Status      ; Successful - Sat Oct 23 15:48:19 2021 ;
+; Revision Name         ; 74LS138                               ;
+; Top-level Entity Name ; 74LS138                               ;
+; Family                ; ACEX1K                                ;
+; Device                ; EP1K30TC144-3                         ;
++-----------------------+---------------------------------------+
+
+
++-----------------------------------------------------------------------------------------------------------+
+; Assembler Settings                                                                                        ;
++--------------------------------------------------------------------------------+----------+---------------+
+; Option                                                                         ; Setting  ; Default Value ;
++--------------------------------------------------------------------------------+----------+---------------+
+; Use smart compilation                                                          ; Off      ; Off           ;
+; Generate Serial Vector Format File (.svf) for Target Device                    ; Off      ; Off           ;
+; Generate a JEDEC STAPL Format File (.jam) for Target Device                    ; Off      ; Off           ;
+; Generate an uncompressed Jam STAPL Byte Code 2.0 File (.jbc) for Target Device ; Off      ; Off           ;
+; Generate a compressed Jam STAPL Byte Code 2.0 File (.jbc) for Target Device    ; On       ; On            ;
+; Compression mode                                                               ; Off      ; Off           ;
+; Clock source for configuration device                                          ; Internal ; Internal      ;
+; Clock frequency of the configuration device                                    ; 10 MHZ   ; 10 MHz        ;
+; Divide clock frequency by                                                      ; 1        ; 1             ;
+; Low-voltage mode                                                               ; On       ; On            ;
+; JTAG user code for target device                                               ; 7F       ; 7F            ;
+; Auto user code                                                                 ; Off      ; Off           ;
+; Use configuration device                                                       ; On       ; On            ;
+; Configuration device                                                           ; Auto     ; Auto          ;
+; JTAG user code for configuration device                                        ; Ffffffff ; Ffffffff      ;
+; Configuration device auto user code                                            ; Off      ; Off           ;
+; Auto-increment JTAG user code for multiple configuration devices               ; On       ; On            ;
+; Disable CONF_DONE and nSTATUS pull-ups on configuration device                 ; Off      ; Off           ;
+; Generate Tabular Text File (.ttf) For Target Device                            ; Off      ; Off           ;
+; Generate Raw Binary File (.rbf) For Target Device                              ; Off      ; Off           ;
+; Generate Hexadecimal (Intel-Format) Output File (.hexout) for Target Device    ; Off      ; Off           ;
+; Hexadecimal Output File start address                                          ; 0        ; 0             ;
+; Hexadecimal Output File count direction                                        ; Up       ; Up            ;
+; Release clears before tri-states                                               ; Off      ; Off           ;
+; Auto-restart configuration after error                                         ; On       ; On            ;
++--------------------------------------------------------------------------------+----------+---------------+
+
+
++-----------------------------------------------+
+; Assembler Generated Files                     ;
++-----------------------------------------------+
+; File Name                                     ;
++-----------------------------------------------+
+; D:/桌面/Quartus项目/test4/74LS138/74LS138.sof ;
+; D:/桌面/Quartus项目/test4/74LS138/74LS138.pof ;
++-----------------------------------------------+
+
+
++-------------------------------------------------------------------------+
+; Assembler Device Options: D:/桌面/Quartus项目/test4/74LS138/74LS138.sof ;
++----------------+--------------------------------------------------------+
+; Option         ; Setting                                                ;
++----------------+--------------------------------------------------------+
+; Device         ; EP1K30TC144-3                                          ;
+; JTAG usercode  ; 0x0000007F                                             ;
+; Checksum       ; 0x0000B6AC                                             ;
++----------------+--------------------------------------------------------+
+
+
++-------------------------------------------------------------------------+
+; Assembler Device Options: D:/桌面/Quartus项目/test4/74LS138/74LS138.pof ;
++----------------+--------------------------------------------------------+
+; Option         ; Setting                                                ;
++----------------+--------------------------------------------------------+
+; Device         ; EPC2                                                   ;
+; JTAG usercode  ; 0x00000000                                             ;
+; Checksum       ; 0x02581149                                             ;
++----------------+--------------------------------------------------------+
+
+
++--------------------+
+; Assembler Messages ;
++--------------------+
+Info: *******************************************************************
+Info: Running Quartus II Assembler
+    Info: Version 6.0 Build 202 06/20/2006 Service Pack 1 SJ Full Version
+    Info: Processing started: Sat Oct 23 15:48:19 2021
+Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off 74LS138 -c 74LS138
+Info: Assembler is generating device programming files
+Info: Quartus II Assembler was successful. 0 errors, 0 warnings
+    Info: Processing ended: Sat Oct 23 15:48:19 2021
+    Info: Elapsed time: 00:00:00
+
+

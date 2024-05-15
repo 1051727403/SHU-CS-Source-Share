@@ -1,0 +1,20 @@
+|2421
+G3 <= inst24.DB_MAX_OUTPUT_PORT_TYPE
+B => inst24.IN0
+B => inst.IN1
+B => inst12.IN0
+B => inst25.IN0
+C => inst24.IN1
+C => inst26.IN0
+C => inst16.IN0
+C => inst17.IN0
+G2 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst.IN0
+A => inst13.IN0
+A => inst19.IN0
+G1 <= inst14.DB_MAX_OUTPUT_PORT_TYPE
+G0 <= inst18.DB_MAX_OUTPUT_PORT_TYPE
+D => inst16.IN1
+D => inst17.IN1
+
+

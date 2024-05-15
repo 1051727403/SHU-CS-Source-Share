@@ -1,0 +1,11 @@
+Fitter Status : Successful - Thu Oct 28 12:59:02 2021
+Quartus II Version : 6.0 Build 202 06/20/2006 SP 1 SJ Full Version
+Revision Name : 74LS151
+Top-level Entity Name : 74LS151
+Family : ACEX1K
+Device : EP1K30TC144-3
+Timing Models : Final
+Total logic elements : 6 / 1,728 ( < 1 % )
+Total pins : 9 / 102 ( 9 % )
+Total memory bits : 0 / 24,576 ( 0 % )
+Total PLLs : 0

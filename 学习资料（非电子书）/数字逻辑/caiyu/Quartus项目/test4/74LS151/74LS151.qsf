@@ -1,0 +1,39 @@
+# Copyright (C) 1991-2006 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+
+# The default values for assignments are stored in the file
+#		74LS151_assignment_defaults.qdf
+# If this file doesn't exist, and for assignments not listed, see file
+#		assignment_defaults.qdf
+
+# Altera recommends that you do not modify this file. This
+# file is updated automatically by the Quartus II software
+# and any changes you make may be lost or overwritten.
+
+
+set_global_assignment -name FAMILY ACEX1K
+set_global_assignment -name DEVICE "EP1K30TC144-3"
+set_global_assignment -name TOP_LEVEL_ENTITY 74LS151
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION "6.0 SP1"
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "10:33:00  OCTOBER 23, 2021"
+set_global_assignment -name LAST_QUARTUS_VERSION "6.0 SP1"
+set_global_assignment -name BDF_FILE 74LS151.bdf
+set_global_assignment -name VECTOR_WAVEFORM_FILE 74LS151.vwf
+set_global_assignment -name SIMULATION_MODE FUNCTIONAL
+set_global_assignment -name FITTER_EFFORT "STANDARD FIT"
+set_location_assignment PIN_138 -to C
+set_location_assignment PIN_137 -to B
+set_location_assignment PIN_136 -to A
+set_location_assignment PIN_135 -to Y

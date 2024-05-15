@@ -1,0 +1,51 @@
+Version 6.0 Build 202 06/20/2006 Service Pack 1 SJ Full Version
+39
+2100
+OFF
+OFF
+OFF
+OFF
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Partition --
+-- End Partition --
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+74112
+# storage
+db|JK.(1).cnf
+db|JK.(1).cnf
+# case_insensitive
+# source_file
+c:|altera|quartus60|libraries|others|maxplus2|74112.bdf
+1c24dbebb1aabb30449246cb3de88d7
+24
+# hierarchies {
+74112:inst
+}
+# end
+# entity
+JK
+# storage
+db|JK.(0).cnf
+db|JK.(0).cnf
+# case_insensitive
+# source_file
+JK.bdf
+9033305c3fcb2cb4426e13981f8090f9
+24
+# hierarchies {
+|
+}
+# end
+# complete
+
