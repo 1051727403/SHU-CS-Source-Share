@@ -20,9 +20,9 @@
 
 -------------------分割线-------------------
 
-#### 🎉最新更新时间：2024-05-16
+#### 🎉最新更新时间：2024-05-20
 
-#### 👉最新更新内容：hcy的个人仓库（已全部分类完毕，涵盖各科内容），包括课程资料、个人作业、历年卷、笔记、代码等等——————详见友情链接板块！
+#### 👉最新更新内容：cxy-脑认知复习资料笔记（可表格跳转）
 
 🤗PS：感谢同学分享以及提交PR！祝大家考试顺利！
 
@@ -64,8 +64,11 @@
 | SHU-大数据从理论到实践A  | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5A) |                           暂无资料                           |
 | SHU-实用计算机英语       | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%AE%9E%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD) |                           暂无资料                           |
 | SHU-人工智能（计科选修） | 选修 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD) |                           暂无资料                           |
+| SHU-脑认知               | 选修 |                         [点此跳转]()                         |                           暂无资料                           |
 | SHU-其他                 | 其他 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%85%B6%E4%BB%96) |                           暂无资料                           |
 | SHU-ACM算法知识&模板     | 其他 | [点此跳转](https://github.com/1051727403/SHU-CS-Source-Share/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%EF%BC%88%E9%9D%9E%E7%94%B5%E5%AD%90%E4%B9%A6%EF%BC%89/%E5%85%B6%E4%BB%96/ACM%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%26%E6%A8%A1%E6%9D%BF) |                           暂无资料                           |
+
+
 
 
 
