@@ -1,5 +1,5 @@
 # 其他
-资料链接: [[百度网盘]()]
+资料链接: [[百度网盘](https://pan.baidu.com/s/1ORPhnqPtd88EQwYhpIqHyA?pwd=v4no)]
 
 1. ACM算法知识&模板 
     - 【算法知识整理】无图版.md
